@@ -1,0 +1,20 @@
+#creating a square box using 
+
+import turtle
+
+
+turtle.pen()
+turtle.shape("turtle")
+
+
+turtle.forward(150)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(150)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+
+
+turtle.getscreen()._root.mainloop() 

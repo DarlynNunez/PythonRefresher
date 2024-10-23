@@ -1,0 +1,34 @@
+#variable
+
+name = "Darlyn"
+print(name)
+
+marks = 94
+print(marks)
+print(marks)
+print(marks)
+print(marks)
+print(marks)
+print(marks)
+
+a = b = c = 1.5
+print(a)
+print(b)
+print(c)
+
+one, two, three, = 1, "two", 3.0
+print(one)
+print(two)
+print(three)
+
+import keyword
+key = keyword.kwlist
+print(key)
+
+#['False', 'None', 'True', 'and', 'as', 
+#'assert', 'async', 'await', 'break', 
+# 'class', 'continue', 'def', 'del', 'elif', 
+# 'else', 'except', 'finally', 'for', 'from', 
+# 'global', 'if', 'import', 'in', 'is', 'lambda',
+# 'nonlocal', 'not', 'or', 'pass', 'raise', 'return',
+#  'try', 'while', 'with', 'yield']

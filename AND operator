@@ -1,0 +1,17 @@
+#AND operator - both are correct =  true
+
+x = 5
+print(x>3 and x<10)
+
+#OR Operator - either one is correct = true
+print(x>3 or x<6)
+
+#NOT Operator - 
+print(not(x>3 or x<6))
+
+has_goodmarks = False
+has_goodrank = True
+if has_goodrank and not has_goodmarks:
+    print("Eligible for Course Set")
+else:
+    print("Not Eligible")

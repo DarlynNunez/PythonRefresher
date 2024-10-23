@@ -1,0 +1,18 @@
+#string data type
+x = "My name is Darlyn"
+print(type(x))
+
+#integer data type
+y = 8
+print(type(y))
+
+#Float data type
+z = 20.5
+print(type(z))
+
+#Booleam data type
+a = True
+print(type(a))
+
+
+

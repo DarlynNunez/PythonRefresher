@@ -1,0 +1,15 @@
+#1. Write the data Types for the below  data items
+
+# "Hello" - String
+# 98788 - Integer
+# 20.19 - Float (Decimal)
+# "H" - Char / String
+
+# 2.  Write Variables usign your class subj...
+
+Math = 95
+English = 97
+Filipino = 94
+Science = 99
+Total = Math + English + Filipino + Science
+print(Total)
